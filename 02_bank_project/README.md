@@ -13,8 +13,8 @@ Credit scoring is widely used by banks in order to quickly decide whether to app
 ## Company profile:
 Bank, Credits 
 
-##Stack:
+## Stack:
 Python, Pandas
 
-##tags:
+## tags:
 data analisys, Python, Pandas, finance analysis
