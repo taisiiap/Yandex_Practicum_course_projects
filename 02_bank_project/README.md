@@ -1,4 +1,4 @@
-#Bank Project
+# Bank Project
 
 ## Task:
 To check the data and hypotesis:
