@@ -11,10 +11,10 @@ distance from the center. Data preprocessing has been carried out. Added new dat
 Histograms, boxplots, scatterplots are constructed.
 
 ## Company profile:
-Internet services, Streaming services 
+Internet services, advertisements website
 
 ## Stack:
-Python, Pandas
+Python, Pandas, matplotlib, exploratory data analysis, data visualization, data preprocessing
 
 ## tags:
 data analisys, Python, Pandas
