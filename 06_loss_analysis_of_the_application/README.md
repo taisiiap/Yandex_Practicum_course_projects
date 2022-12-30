@@ -1,4 +1,4 @@
-# Studying the patterns that determine the success of games
+# Loss analysis of the app
 
 ## Task:
 Despite huge investments in advertising, the company has been losing money for the past few months. Your task is to understand the reasons and help the company to become a plus.
