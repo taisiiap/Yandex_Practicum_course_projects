@@ -1,4 +1,4 @@
-# Testing hypotheses to increase revenue in an online store - evaluate the results of an A / B test
+# Evaluate the correctness of the conduct of an A/B test
 
 ## Task:
 To evaluate the correctness of the conduct and analyze the results of the A / B test using a dataset with user actions and terms of reference.
