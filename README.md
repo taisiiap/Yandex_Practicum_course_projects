@@ -1,5 +1,3 @@
-# DA projects from "Yandex.Practikum"
-
 <center><h1>Yandex.Data Analyst</h1></center>
 
 <p align=left>
