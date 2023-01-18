@@ -15,6 +15,19 @@ During the work the following tasks were solved:
  - Statistical hypotheses tested,
  - Conclusions and recommendations are made based on the data obtained
 
+## Results:
+There is no a statistically significant difference in the average incomes of those who left and those who stayed. The hypothesis that the bank scoring of outbound customers is the same as that of those who remained was not confirmed. 
+
+Tend to churn clients:
+ - who lives in Rostov Veliky and Yaroslavl 
+ - women of 42 - 50 years
+ - clients who, on average, have a salary of 100 thousand rubles and have on their balance sheet from 100 to 150 thousand rubles
+ - customers that have, on average, only one bank product and have a credit card
+ 
+Recommendations
+
+Clients with 1 banking product churn more often, which means that the number of products that the client uses constantly needs to be increased. If the customer only has a debit card, offer a free credit card for the first year. Middle-aged people from 42 to 50 can be offered to open an investment account on favorable terms and donate shares, since these are still working people with large savings.
+
 ## Company profile:
 bank
 
