@@ -26,7 +26,7 @@ Tend to churn clients:
  
 Recommendations
 
-Clients with 1 banking product churn more often, which means that the number of products that the client uses constantly needs to be increased. If the customer only has a debit card, offer a free credit card for the first year. Middle-aged people from 42 to 50 can be offered to open an investment account on favorable terms and donate shares, since these are still working people with large savings.
+Clients with 1 banking product churn more often, which means that the number of products that the client uses constantly needs to be increased. If the customer only has a debit card, offer a free credit card for the first year. Middle-aged people from 42 to 50 can be offered to open an investment account on favorable terms and donate shares, since these are still working people with large savings. Increase the cashback on all cards for a month for "female" categories. Or add a new credit card with an elegant design and increased cashback for purchases in beauty and health stores. And so ... I would encourage women to take out loans for their business or use an online bank for small businesses, but this is not related to gender.
 
 ## Company profile:
 bank
